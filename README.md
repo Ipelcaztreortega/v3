@@ -1,7 +1,7 @@
 # React + Vite
 
 <p align="center">
-  The third iteration of <a href="https://irvinpelcaztreortega.netlify.app/" target="_blank">brittanychiang.com</a> built with <a href="https://react.dev/" target="_blank">React</a>, Tailwind.CSS and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  The third iteration of <a href="https://irvinpelcaztreortega.netlify.app/" target="_blank">ipelcaztreortega.com</a> built with <a href="https://react.dev/" target="_blank">React</a>, Tailwind.CSS and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 
 <p align="center">
