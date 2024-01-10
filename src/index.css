@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* This is for a set styles that applies to all of the elements selected */
+@layer base {
+    .btn{
+        @apply px-2 py-2 rounded-lg;
+    }
+
+    .primary-btn{
+        @apply  bg-red-500 text-white font-bold hover:bg-red-700;
+    }
+}
+
+
+@layer utilities {
+    .overlay-tint {
+      @apply absolute top-0 right-0 bottom-0 left-0;
+      background-color: rgba(252, 165, 165, 0.7); /* Adjust the alpha (last value) for transparency */
+      transition: background-color 0.3s ease; /* Add a smooth transition effect */
+    }
+  
+    .overlay-tint:hover {
+      background-color: transparent; /* Change to the original background color on hover */
+    }
+  }
