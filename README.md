@@ -1,21 +1,26 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+<h1 align="center">
+  ipelcaztreortega.com - v3
+</h1>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p align="center">
+  The third iteration of <a href="https://irvinpelcaztreortega.netlify.app/" target="_blank">brittanychiang.com</a> built with <a href="https://react.dev/" target="_blank">React</a>, Tailwind.CSS and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+</p>
+
+<p align="center">
+    For future changes, adding animations, adding responsivness to smaller window size, adding more sections with more projects or experience.
+</p>
 
 
-The third iteration of my webpage built with React.JS, Tailwind.CSS and hosted on Netlify
 
-For future changes, adding animations, adding responsivness to smaller window size, adding more sections with more projects or experience.
 
-Color Reference:  
+## Color Reference
 
-Red:   #FCA5FC
-White: #ffffff
-Gray:  #6b7280
-Dark Red: #7f1d1d
-Black:    #000000
+| Color          | Hex                                                                |
+| -------------- | ------------------------------------------------------------------ |
+| Red            | ![#FCA5FC](https://via.placeholder.com/10/0a192f?text=+) `#FCA5FC` |
+| White          | ![#ffffff](https://via.placeholder.com/10/0a192f?text=+) `#ffffff` |
+| Dark Red       | ![#7f1d1d](https://via.placeholder.com/10/303C55?text=+) `#7f1d1d` |
+| Black          | ![#000000](https://via.placeholder.com/10/8892b0?text=+) `#000000` |
