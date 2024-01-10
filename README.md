@@ -1,10 +1,5 @@
 # React + Vite
 
-
-<h1 align="center">
-  ipelcaztreortega.com - v3
-</h1>
-
 <p align="center">
   The third iteration of <a href="https://irvinpelcaztreortega.netlify.app/" target="_blank">brittanychiang.com</a> built with <a href="https://react.dev/" target="_blank">React</a>, Tailwind.CSS and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
