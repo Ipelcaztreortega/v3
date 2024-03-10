@@ -59,7 +59,7 @@ const Navbar = () => {
         </Link>
         
         {/* Link to open the resume PDF in a new tab */}
-        <a href="./Irvin Pelcaztre-Ortega's Resume.pdf" target="_blank" rel="noopener noreferrer">
+        <a href="./Irvin_Pelcaztre_Ortega's_Resume.pdf" target="_blank" rel="noopener noreferrer">
           <h2 className="ml-8 mr-12 hover:text-red-900 font-bold">Resume</h2>
         </a>
 

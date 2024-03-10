@@ -19,10 +19,10 @@ const About = () => {
                 <div className="about-container flex flex-col w-4/6 mr-2">
                     
                     <p className='text-lg text-gray-600'>
-                        Hello! I'm Irvin, and I bring three years of personal coding experience to the table. My journey into computer science commenced in 2020 when a friend introduced me to HTML & CSS. While pursuing my education at Georgia State University, I delved into relevant courses such as System Level Programming, Data Structures, Object Oriented Programming, Operating Systems, and Design and Analysis: Algorithms.
+                        Hello! I'm Irvin, and I bring three years of personal coding experience to the table. I am a junior enrolled in the Computer Science program with a focus on Data Science at Georgia State University. I am proficient in OOP languages: Python and Java, while currently working on improving my Web Development skills using the MERN stack.
                     </p>
                     <p className='text-lg mt-4 text-gray-600'>
-                        In the present, my enthusiasm lies in applying my design and development skills to real-world projects. I'm open to roles in software engineering, full-stack development, and iOS development. Additionally, I've developed a passion for data analysis using Python, SQL, and Java.
+                        I am passionate about Software Engineering and I would love to be able to contribute my skills and enthusiasm as an intern in an innovative and customer-obsessed organization where I can continue to grow and make a meaningful impact. I'm looking for roles in Software Engineering, Full-Stack development, and Data Analyst. 
                     </p>
                 </div>
 
@@ -43,10 +43,9 @@ const About = () => {
                     <p>Python</p>
                     <p>JavaScript/TypeScript</p>
                     <p>Java</p>
-                    <p>Swift</p>
                     <p>HTML</p>
                     <p>CSS/Tailwind</p>
-                    <p>SQL</p>
+                    <p>SQL (MySQL)</p>
                 </div>
 
                 <div className="mx-4 mb-4 w-1/6">
@@ -54,6 +53,7 @@ const About = () => {
                     <p>React</p>
                     <p>Numpy</p>
                     <p>Matplotlib</p>
+                    <p>Node.js</p>
                 </div>
 
                 <div className="mx-4 mb-4 w-1/6">
@@ -62,6 +62,8 @@ const About = () => {
                     <p>Git & Github</p>
                     <p>Netlify</p>
                     <p>Supabase</p>
+                    <p>MS Excel</p>
+                    <p>Tableau</p>
                 </div>
             </div>
             

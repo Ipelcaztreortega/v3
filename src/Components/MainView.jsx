@@ -12,7 +12,7 @@ const Mainview = () => {
                 <h1 className=" mb-8 text-7xl font-bold text-gray-600">I build things for my growth.</h1>
 
                 <div className="w-7/12">
-                    <p className=" mt-8 text-lg text-gray-600">I'm an aspiring Software Engineer with an interest in Fullstack Web Development. Currently I am looking for an internship.</p>
+                    <p className=" mt-8 text-lg text-gray-600">I'm an aspiring Software Engineer currently looking for an internship for Summer 2024</p>
                 </div>
                 
             </div>
