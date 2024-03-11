@@ -2,6 +2,9 @@ import React, { useState, useEffect } from "react";
 import { Link } from "react-scroll";
 
 const Navbar = () => {
+
+  const [isMenuOpen, setIsMenuOpen] = useState(false); // State to track menu visibility
+
   // State to track whether the user has scrolled down
   const [isScrolled, setIsScrolled] = useState(false);
   // State to keep track of the previous scroll position
